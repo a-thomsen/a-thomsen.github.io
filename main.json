@@ -5,7 +5,7 @@
         "year" : "2009",
         "desc": {
           "genre": "doom metal",
-          "adj": "vulgar sound"
+          "adj": ["vulgar sound"]
         }
     },
     {
@@ -14,7 +14,7 @@
         "year": "1977",
         "desc": {
           "genre" : "hard rock",
-          "adj": "descriptive lyrics"
+          "adj": ["descriptive lyrics"]
         }
     },
     {
@@ -32,7 +32,7 @@
         "year": "1987",
         "desc": {
           "genre" : "progressive rock",
-          "adj": "anticipatory energy"
+          "adj": ["anticipatory energy"]
         }
     },
     {
