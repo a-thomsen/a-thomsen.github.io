@@ -4,7 +4,7 @@
         "band": "Alice in Chains",
         "year" : "2009",
         "desc": {
-          "genre": "Doom Metal",
+          "genre": "doom metal",
           "adj": "vulgar sound"
         }
     },
@@ -13,7 +13,7 @@
         "band": "Thin Lizzy",
         "year": "1977",
         "desc": {
-          "genre" : "Hard Rock",
+          "genre" : "hard rock",
           "adj": "descriptive lyrics"
         }
     },
@@ -22,7 +22,7 @@
         "band": "Billy Idol",
         "year": "1983",
         "desc": {
-          "genre" : "New Wave",
+          "genre" : "new wave",
           "adj": ["grimy vibe", "80s melodic choices"]
         }
     },
@@ -31,7 +31,7 @@
         "band": "Pink Floyd",
         "year": "1987",
         "desc": {
-          "genre" : "Progressive Rock",
+          "genre" : "progressive rock",
           "adj": "anticipatory energy"
         }
     },
@@ -40,7 +40,7 @@
         "band": "Van Halen",
         "year": "1978",
         "desc": {
-          "genre" : "Heavy Metal",
+          "genre" : "heavy metal",
           "adj": ["clever simplicity", "guitar riff"]
         }
     }
