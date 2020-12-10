@@ -23,7 +23,7 @@
         "year": "1983",
         "desc": {
           "genre" : "New Wave",
-          "adj": "grimy vibe"
+          "adj": ["grimy vibe", "80s melodic choices"]
         }
     },
     {
@@ -41,7 +41,7 @@
         "year": "1978",
         "desc": {
           "genre" : "Heavy Metal",
-          "adj": "clever simplicity"
+          "adj": ["clever simplicity", "guitar riff"]
         }
     }
   ]
