@@ -5,7 +5,7 @@
         "year" : "2009",
         "desc": {
           "genre": "doom metal",
-          "adj": ["vulgar sound"]
+          "adj": ["the vulgar sound", " the California style"]
         }
     },
     {
@@ -14,7 +14,7 @@
         "year": "1977",
         "desc": {
           "genre" : "hard rock",
-          "adj": ["descriptive lyrics"]
+          "adj": ["the descriptive lyrics", "the drum track"]
         }
     },
     {
@@ -23,7 +23,7 @@
         "year": "1983",
         "desc": {
           "genre" : "new wave",
-          "adj": ["grimy vibe", "80s melodic choices"]
+          "adj": ["the grimy vibe", "the 80s melodic choices"]
         }
     },
     {
@@ -32,7 +32,7 @@
         "year": "1987",
         "desc": {
           "genre" : "progressive rock",
-          "adj": ["anticipatory energy"]
+          "adj": ["the anticipatory energy", "the saxophone solo"]
         }
     },
     {
@@ -41,7 +41,7 @@
         "year": "1978",
         "desc": {
           "genre" : "heavy metal",
-          "adj": ["clever simplicity", "guitar riff"]
+          "adj": ["the clever simplicity", "the guitar riff"]
         }
     }
   ]
