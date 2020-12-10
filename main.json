@@ -38,10 +38,11 @@
     {
         "song": "Aint Talkin bout Love",
         "band": "Van Halen",
-        "year": "1978", 
+        "year": "1978",
         "desc": {
           "genre" : "Heavy Metal",
-          "because": "clever simplicity"
+          "adj": "clever simplicity"
         }
+    }
     }
   ]
