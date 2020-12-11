@@ -1,0 +1,33 @@
+/* Info */
+
+[
+    {
+        "address": "9 Wall St, New York, 10005, USA",
+        "phone": "890-555-0401",
+        "email": "email@example.com",
+        "website": "http://w3schools.com"
+    }
+]
+
+/* Employment */
+
+[
+    {
+        "job1": {
+            "title": "Product Manager",
+            "company": "ASI Corp",
+            "location": "New York",
+            "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vehicula quam nisi, nec fringilla libero facilisis mattis.",
+            "tasks": ["Lorem ipsum dolor sit amet, consectetur adipiscing elit", "Lorem ipsum dolor sit amet, consectetur adipiscing elit", "Lorem ipsum dolor sit amet, consectetur adipiscing elit", "Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+            }
+    },
+    {
+        "job2": {
+            "title": "Product Manager",
+            "company": "Johnson & Johnson",
+            "location": "New York",
+            "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vehicula quam nisi, nec fringilla libero facilisis mattis.",
+            "tasks": ["Lorem ipsum dolor sit amet, consectetur adipiscing elit", "Lorem ipsum dolor sit amet, consectetur adipiscing elit", "Lorem ipsum dolor sit amet, consectetur adipiscing elit", "Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+            }
+    }
+]
