@@ -1,0 +1,20 @@
+[
+    {
+        "song": "Dogs of War",
+        "band": "Pink Floyd",
+        "year": "1987",
+        "desc": {
+          "genre" : "progressive rock",
+          "adj": ["the anticipatory energy", "the saxophone layer"]
+        }
+    },
+    {
+        "song": "Aint Talkin' 'bout Love",
+        "band": "Van Halen",
+        "year": "1978", 
+        "desc": {
+          "genre" : "heavy metal",
+          "adj": ["the clever simplicity"]
+        }
+    }
+  ]
