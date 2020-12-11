@@ -1,0 +1,16 @@
+[
+    {
+      "title": "Product Manager",
+      "company": "ASI Corp",
+      "location": "New York",
+      "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vehicula quam nisi, nec fringilla libero facilisis mattis.",
+      "tasks": ["Lorem ipsum dolor sit amet, consectetur adipiscing elit", "Lorem ipsum dolor sit amet, consectetur adipiscing elit", "Lorem ipsum dolor sit amet, consectetur adipiscing elit", "Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+    },
+    {
+        "title": "Product Manager",
+        "company": "Johnson & Johnson",
+        "location": "New York",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vehicula quam nisi, nec fringilla libero facilisis mattis.",
+        "tasks": ["Lorem ipsum dolor sit amet, consectetur adipiscing elit", "Lorem ipsum dolor sit amet, consectetur adipiscing elit", "Lorem ipsum dolor sit amet, consectetur adipiscing elit", "Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+    }
+  ]
