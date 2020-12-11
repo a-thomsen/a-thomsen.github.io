@@ -1,0 +1,29 @@
+[
+    {
+        "song": "Check My Brain",
+        "band": "Alice in Chains",
+        "year" : "2009",
+        "desc": {
+          "genre": "doom metal",
+          "adj": ["the vulgar sound", "the Venice Beach style"]
+        }
+    },
+    {
+        "song": "Opium Trail",
+        "band": "Thin Lizzy",
+        "year": "1977",
+        "desc": {
+          "genre" : "hard rock",
+          "adj": ["the descriptive lyrics"]
+        }
+    },
+    {
+        "song": "Rebel Yell",
+        "band": "Billy Idol",
+        "year": "1983",
+        "desc": {
+          "genre" : "new wave",
+          "adj": ["the grimy vibe"]
+        }
+    }
+  ]

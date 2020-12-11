@@ -1,0 +1,20 @@
+[
+    {
+        "song": "Miss You",
+        "band": "The Rolling Stones",
+        "year": "1978",
+        "desc": {
+          "genre" : "disco rock",
+          "adj": ["the groovy sound"]
+        }
+    },
+    {
+        "song": "Without You",
+        "band": "Mötley Crüe",
+        "year": "1989", 
+        "song": {
+          "genre" : "glam metal",
+          "because": ["the steel guitar solo"]
+        }
+    }
+  ]
