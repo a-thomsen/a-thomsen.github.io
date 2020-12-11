@@ -12,9 +12,9 @@
         "song": "Without You",
         "band": "Mötley Crüe",
         "year": "1989", 
-        "song": {
+        "desc": {
           "genre" : "glam metal",
-          "because": ["the steel guitar solo"]
+          "adj": ["the steel guitar solo"]
         }
     }
   ]
