@@ -12,9 +12,9 @@
         "song": "Aint Talkin' 'bout Love",
         "band": "Van Halen",
         "year": "1978", 
-        "song": {
+        "desc": {
           "genre" : "heavy metal",
-          "because": ["the clever simplicity"]
+          "adj": ["the clever simplicity"]
         }
     }
   ]
